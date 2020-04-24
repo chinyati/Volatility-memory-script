@@ -1,0 +1,12 @@
+Process: csrss.exe Pid: 584 Address: 0x7f6f0000
+Process: winlogon.exe Pid: 608 Address: 0x13410000
+Process: winlogon.exe Pid: 608 Address: 0xf9e0000
+Process: winlogon.exe Pid: 608 Address: 0x4ee0000
+Process: winlogon.exe Pid: 608 Address: 0x554c0000
+Process: winlogon.exe Pid: 608 Address: 0x4dc40000
+Process: winlogon.exe Pid: 608 Address: 0x4c540000
+Process: winlogon.exe Pid: 608 Address: 0x5de10000
+Process: winlogon.exe Pid: 608 Address: 0x6a230000
+Process: winlogon.exe Pid: 608 Address: 0x73f40000
+Process: explorer.exe Pid: 1484 Address: 0x1460000
+Process: reader_sl.exe Pid: 1640 Address: 0x3d0000

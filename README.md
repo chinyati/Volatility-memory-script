@@ -10,11 +10,13 @@ A python script to analyse a memory dump using Volaitility framework. The script
 
 ## How it works
 This is a python script hence the system/container should have python and pip installed and running. Below is a sample of how script works
-```
-$ python malscript.py -f cridex.vmem
 
+![First Image](https://github.com/chinyati/malware-Script/blob/master/images/1.png)
+![Second Image](https://github.com/chinyati/malware-Script/blob/master/images/2.png)]
+![Third Image](https://github.com/chinyati/malware-Script/blob/master/images/3.png)]
+![Fourth Image](https://github.com/chinyati/malware-Script/blob/master/images/4.png)]
+![Fifth Image](https://github.com/chinyati/malware-Script/blob/master/images/5.png)]
 
-```
 
 ## Usage
 ```
